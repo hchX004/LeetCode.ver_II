@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/reverse-integer/">7. Reverse Integer</a></h4>
+<h1 class="title__20p2" style="color: black;text-decoration: none;"><a href="/problems/reverse-integer/">7. Reverse Integer</a></h4>
 
 <div><p>Given a 32-bit signed integer, reverse digits of an integer.</p>
 
