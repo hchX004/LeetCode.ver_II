@@ -1,4 +1,4 @@
-<h4 class="title__20p2"><a href="/problems/palindrome-number/">9. Palindrome Number</a></h4>
+<h1 class="title__20p2"><a href="/problems/palindrome-number/">9. Palindrome Number</a></h1>
 
 <div><p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
 
