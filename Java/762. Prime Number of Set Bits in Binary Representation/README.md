@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/prime-number-of-set-bits-in-binary-representation/">762. Prime Number of Set Bits in Binary Representation</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/">762. Prime Number of Set Bits in Binary Representation</a></h1>
 
 <div><p>
 Given two integers <code>L</code> and <code>R</code>, find the count of numbers in the range <code>[L, R]</code> (inclusive) having a prime number of set bits in their binary representation.

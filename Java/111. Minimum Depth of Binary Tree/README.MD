@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/minimum-depth-of-binary-tree/">111. Minimum Depth of Binary Tree</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/">111. Minimum Depth of Binary Tree</a></h1>
 <div class="notranslate"><p>Given a binary tree, find its minimum depth.</p>
 
 <p>The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.</p>

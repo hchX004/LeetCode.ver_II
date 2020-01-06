@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/valid-palindrome/">125. Valid Palindrome</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/valid-palindrome/">125. Valid Palindrome</a></h1>
 
 <div><p>Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.</p>
 

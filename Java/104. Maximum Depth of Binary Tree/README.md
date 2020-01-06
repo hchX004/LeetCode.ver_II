@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/maximum-depth-of-binary-tree/">104. Maximum Depth of Binary Tree</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/">104. Maximum Depth of Binary Tree</a></h1>
 
 <div><p>Given a binary tree, find its maximum depth.</p>
 

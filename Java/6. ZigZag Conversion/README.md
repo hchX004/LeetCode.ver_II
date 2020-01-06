@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/zigzag-conversion/">6. ZigZag Conversion</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/zigzag-conversion/">6. ZigZag Conversion</a></h1>
 
 <div><p>The string <code>"PAYPALISHIRING"</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/unique-email-addresses/">929. Unique Email Addresses</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/unique-email-addresses/">929. Unique Email Addresses</a></h1>
 
 <div><p>Every email consists of a local name and a domain name, separated by the @ sign.</p>
 

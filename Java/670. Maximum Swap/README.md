@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/maximum-swap/">670. Maximum Swap</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/maximum-swap/">670. Maximum Swap</a></h1>
 
 <div><p>
 Given a non-negative integer, you could swap two digits <b>at most</b> once to get the maximum valued number. Return the maximum valued number you could get.

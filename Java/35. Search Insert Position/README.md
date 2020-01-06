@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/search-insert-position/">35. Search Insert Position</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/search-insert-position/">35. Search Insert Position</a></h1>
 
 <div><p>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
 

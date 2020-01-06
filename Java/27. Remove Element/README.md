@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/remove-element/">27. Remove Element</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/remove-element/">27. Remove Element</a></h1>
 
 <div><p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/prime-number-of-set-bits-in-binary-representation/">762. Prime Number of Set Bits in Binary Representation</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/">762. Prime Number of Set Bits in Binary Representation</a></h1>
 
 <div><p>Reverse a singly linked list.</p>
 

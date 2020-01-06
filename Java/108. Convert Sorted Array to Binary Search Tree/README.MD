@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/symmetric-tree/">108. Convert Sorted Array to Binary Search Tree</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/symmetric-tree/">108. Convert Sorted Array to Binary Search Tree</a></h1>
 <div><p>Given an array where elements are sorted in ascending order, convert it to a height balanced BST.</p>
 
 <p>For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of <em>every</em> node never differ by more than 1.</p>

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/single-number/">136. Single Number</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/single-number/">136. Single Number</a></h1>
 
 <div><p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>twice</em> except for one. Find that single one.</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/valid-parentheses/">20. Valid Parentheses</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/valid-parentheses/">20. Valid Parentheses</a></h1>
 
 <div><p>Given a string containing just the characters <code>'('</code>, <code>')'</code>, <code>'{'</code>, <code>'}'</code>, <code>'['</code> and <code>']'</code>, determine if the input string is valid.</p>
 

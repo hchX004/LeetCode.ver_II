@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/two-sum/">1. Two Sum</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/two-sum/">1. Two Sum</a></h1>
 
 <div><p>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.</p>
 

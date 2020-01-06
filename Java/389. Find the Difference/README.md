@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/find-the-difference/">389. Find the Difference</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/find-the-difference/">389. Find the Difference</a></h1>
 
 <div><p>
 Given two strings <b><i>s</i></b> and <b><i>t</i></b> which consist of only lowercase letters.</p>

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/powx-n/">50. Pow(x, n)</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/powx-n/">50. Pow(x, n)</a></h1>
 
 <div><p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>, which calculates&nbsp;<em>x</em> raised to the power <em>n</em> (x<sup><span style="font-size:10.8333px">n</span></sup>).</p>
 

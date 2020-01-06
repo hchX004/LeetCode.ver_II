@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/longest-palindromic-substring/">5. Longest Palindromic Substring</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/longest-palindromic-substring/">5. Longest Palindromic Substring</a></h1>
 
 <div><p>Given a string <strong>s</strong>, find the longest palindromic substring in <strong>s</strong>. You may assume that the maximum length of <strong>s</strong> is 1000.</p>
 

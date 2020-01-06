@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/same-tree/">100. Same Tree</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/same-tree/">100. Same Tree</a></h1>
 
 <div><p>Given two binary trees, write a function to check if they are the same or not.</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/sqrtx/">69. Sqrt(x)</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/sqrtx/">69. Sqrt(x)</a></h1>
 
 <div><p>Implement <code>int sqrt(int x)</code>.</p>
 

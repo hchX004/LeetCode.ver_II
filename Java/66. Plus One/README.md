@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/plus-one/">66. Plus One</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/plus-one/">66. Plus One</a></h1>
 
 <div><p>Given a <strong>non-empty</strong> array of digits&nbsp;representing a non-negative integer, plus one to the integer.</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/fibonacci-number/">509. Fibonacci Number</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/fibonacci-number/">509. Fibonacci Number</a></h1>
 
 <div><p>The&nbsp;<b>Fibonacci numbers</b>, commonly denoted&nbsp;<code>F(n)</code>&nbsp;form a sequence, called the&nbsp;<b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
 

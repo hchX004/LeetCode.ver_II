@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/valid-triangle-number/">611. 有效三角形的个数</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/valid-triangle-number/">611. 有效三角形的个数</a></h1>
 
 <div><p>给定一个包含非负整数的数组，你的任务是统计其中可以组成三角形三条边的三元组个数。</p>
 

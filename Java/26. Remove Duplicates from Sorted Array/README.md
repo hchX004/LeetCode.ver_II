@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array</a></h1>
 
 <div><p>Given a sorted array <em>nums</em>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each element appear only <em>once</em> and return the new length.</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/merge-sorted-array/">88. Merge Sorted Array</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/merge-sorted-array/">88. Merge Sorted Array</a></h1>
 
 <div><p>Given two sorted integer arrays <em>nums1</em> and <em>nums2</em>, merge <em>nums2</em> into <em>nums1</em> as one sorted array.</p>
 

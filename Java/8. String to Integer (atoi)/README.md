@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/string-to-integer-atoi/">8. String to Integer (atoi)</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/string-to-integer-atoi/">8. String to Integer (atoi)</a></h1>
 
 <div><p>Implement <code><span>atoi</span></code> which&nbsp;converts a string to an integer.</p>
 

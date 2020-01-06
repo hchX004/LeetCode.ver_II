@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/path-sum/">112. Path Sum</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/path-sum/">112. Path Sum</a></h1>
 <div class="notranslate"><p>Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.</p>
 
 <p><strong>Note:</strong>&nbsp;A leaf is a node with no children.</p>

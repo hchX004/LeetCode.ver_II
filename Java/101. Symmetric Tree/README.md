@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/symmetric-tree/">101. Symmetric Tree</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/symmetric-tree/">101. Symmetric Tree</a></h1>
 
 <div><p>Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).</p>
 

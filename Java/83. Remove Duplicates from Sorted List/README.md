@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/remove-duplicates-from-sorted-list/">83. Remove Duplicates from Sorted List</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/">83. Remove Duplicates from Sorted List</a></h1>
 
 <div><p>Given a sorted linked list, delete all duplicates such that each element appear only <em>once</em>.</p>
 

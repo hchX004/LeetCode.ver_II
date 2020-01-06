@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/implement-strstr/">28. Implement strStr()</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/implement-strstr/">28. Implement strStr()</a></h1>
 
 <div><p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
 

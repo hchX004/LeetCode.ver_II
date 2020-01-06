@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/1-bit-and-2-bit-characters/">717. 1-bit and 2-bit Characters</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/">717. 1-bit and 2-bit Characters</a></h1>
 
 <div><p>We have two special characters. The first character can be represented by one bit <code>0</code>. The second character can be represented by two bits (<code>10</code> or <code>11</code>).  </p>
 

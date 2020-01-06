@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></h1>
 
 <div><p>Given a string, find the length of the <b>longest substring</b> without repeating characters.</p>
 

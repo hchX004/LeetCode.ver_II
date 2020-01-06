@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/climbing-stairs/">70. Climbing Stairs</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/climbing-stairs/">70. Climbing Stairs</a></h1>
 
 <div><p>You are climbing a stair case. It takes <em>n</em> steps to reach to the top.</p>
 

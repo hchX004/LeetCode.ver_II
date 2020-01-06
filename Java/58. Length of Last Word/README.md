@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/length-of-last-word/">58. Length of Last Word</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/length-of-last-word/">58. Length of Last Word</a></h1>
 
 <div><p>Given a string <i>s</i> consists of upper/lower-case alphabets and empty space characters <code>' '</code>, return the length of last word in the string.</p>
 

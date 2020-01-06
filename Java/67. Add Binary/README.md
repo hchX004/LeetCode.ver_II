@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/add-binary/">67. Add Binary</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/add-binary/">67. Add Binary</a></h1>
 
 <div><p>Given two binary strings, return their sum (also a binary string).</p>
 

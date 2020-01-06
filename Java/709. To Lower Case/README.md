@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/to-lower-case/">709. To Lower Case</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/to-lower-case/">709. To Lower Case</a></h1>
 
 <div><p>Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.</p>
 

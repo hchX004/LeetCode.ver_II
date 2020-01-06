@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/unique-morse-code-words/">804. Unique Morse Code Words</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/unique-morse-code-words/">804. Unique Morse Code Words</a></h1>
 
 <div><p>International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: <code>"a"</code> maps to <code>".-"</code>, <code>"b"</code> maps to <code>"-..."</code>, <code>"c"</code> maps to <code>"-.-."</code>, and so on.</p>
 

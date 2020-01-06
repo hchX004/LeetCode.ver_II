@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/reverse-integer/">7. Reverse Integer</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/reverse-integer/">7. Reverse Integer</a></h1>
 
 <div><p>Given a 32-bit signed integer, reverse digits of an integer.</p>
 

@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/balanced-binary-tree/">110. Balanced Binary Tree</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/balanced-binary-tree/">110. Balanced Binary Tree</a></h1>
 <div class="notranslate"><p>Given a binary tree, determine if it is height-balanced.</p>
 
 <p>For this problem, a height-balanced binary tree is defined as:</p>

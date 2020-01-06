@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/binary-tree-level-order-traversal-ii/">107. Binary Tree Level Order Traversal II</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">107. Binary Tree Level Order Traversal II</a></h1>
 
 <div><p>Given a binary tree, return the <i>bottom-up level order</i> traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).</p>
 

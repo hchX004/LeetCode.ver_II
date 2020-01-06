@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/count-and-say/">38. Count and Say</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/count-and-say/">38. Count and Say</a></h1>
 
 <div><p>The count-and-say sequence is the sequence of integers with the first five terms as following:</p>
 

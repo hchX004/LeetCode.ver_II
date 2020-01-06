@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a></h1>
 
 <div><p>Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.</p>
 
