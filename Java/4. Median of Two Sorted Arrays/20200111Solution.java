@@ -64,11 +64,16 @@ public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 public double findMedianSortedArrays(int[] A, int[] B) {
         int m = A.length;
         int n = B.length;
+        //将长短数组排序
         if (m > n) { // to ensure m<=n
             int[] temp = A; A = B; B = temp;
             int tmp = m; m = n; n = tmp;
         }
+        //A为短数组，B为长数组
         int iMin = 0, iMax = m, halfLen = (m + n + 1) / 2;
+        //用i和j将两个数组划分找到中位数
+        //i + j = m-i + n-j + 1
+        //B[j-1] > A[i], A[i-1] > B[j]
         while (iMin <= iMax) {
             int i = (iMin + iMax) / 2;
             int j = halfLen - i;
@@ -78,7 +83,9 @@ public double findMedianSortedArrays(int[] A, int[] B) {
             else if (i > iMin && A[i-1] > B[j]) {
                 iMax = i - 1; // i is too big
             }
-            else { // i is perfect
+            //找到合适的i
+            else {
+            	//判断奇偶得到中位数
                 int maxLeft = 0;
                 if (i == 0) { maxLeft = B[j-1]; }
                 else if (j == 0) { maxLeft = A[i-1]; }
