@@ -25,6 +25,8 @@ class 20200113Solution {
 
 
 /*
+//动态规划
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -43,6 +45,8 @@ public class Solution {
         dp0.add("");
         dp.add(dp0);
 
+        //dp[i] = "(" + dp[可能的括号对数] + ")" + dp[剩下的括号对数]
+        
         for (int i = 1; i <= n; i++) {
             List<String> cur = new ArrayList<>();
             for (int j = 0; j < i; j++) {
@@ -58,6 +62,22 @@ public class Solution {
             dp.add(cur);
         }
         return dp.get(n);
+    }
+}
+
+O(4^n/n^(1/2))
+class Solution {
+    public List<String> generateParenthesis(int n) {
+        List<String> ans = new ArrayList();
+        if (n == 0) {
+            ans.add("");
+        } else {
+            for (int c = 0; c < n; ++c)
+                for (String left: generateParenthesis(c))
+                    for (String right: generateParenthesis(n-1-c))
+                        ans.add("(" + left + ")" + right);
+        }
+        return ans;
     }
 }
  */
