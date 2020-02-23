@@ -1,4 +1,5 @@
-<h1 class="title__20p2"><a href="https://leetcode-cn.com//problems/find-the-town-judge/">997. Find the Town Judge</a></h1>
+<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/find-the-town-judge/">997. Find the Town Judge</a></h1>
+
 <div class="notranslate"><p>In a town, there are <code>N</code> people labelled from&nbsp;<code>1</code> to <code>N</code>.&nbsp; There is a rumor that one of these people is secretly the town judge.</p>
 
 <p>If the&nbsp;town judge exists, then:</p>
