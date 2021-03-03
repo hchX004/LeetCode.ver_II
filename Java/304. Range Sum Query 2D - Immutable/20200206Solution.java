@@ -23,6 +23,35 @@ class NumMatrix {
     }
 }
 
+/*
+class NumMatrix {
+
+    int[][] preMatrix;
+
+    public NumMatrix(int[][] matrix) {
+        int m = matrix.length;
+        int n = 0;
+        if(m != 0) n = matrix[0].length;
+        preMatrix = new int[m][n+1];
+        for (int i = 0; i < m; i++){
+            for (int j = 1; j < n+1; j++){
+                preMatrix[i][j] = matrix[i][j-1] +preMatrix[i][j-1];
+            }
+        }
+
+    }
+    
+    public int sumRegion(int row1, int col1, int row2, int col2) {
+        int temp1 = 0, temp2 = 0;
+        for (int i = row1; i <= row2; i++){
+            temp1 += preMatrix[i][col2+1];
+            temp2 += preMatrix[i][col1];
+        }
+        return temp1 - temp2;
+    }
+}
+*/
+
 /**
  * Your NumMatrix object will be instantiated and called as such:
  * NumMatrix obj = new NumMatrix(matrix);
