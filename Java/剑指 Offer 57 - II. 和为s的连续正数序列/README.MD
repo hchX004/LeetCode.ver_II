@@ -1,4 +1,4 @@
-<h1 class="title__20p2"><a href="https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/">面试题57 - II. 和为s的连续正数序列</a></h1>
+<h1 class="title__20p2"><a href="/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/">剑指 Offer 57 - II. 和为s的连续正数序列</a></h1>
 
 <div class="notranslate"><p>输入一个正整数 <code>target</code> ，输出所有和为 <code>target</code> 的连续正整数序列（至少含有两个数）。</p>
 
