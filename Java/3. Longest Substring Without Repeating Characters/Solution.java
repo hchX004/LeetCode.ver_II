@@ -1,6 +1,8 @@
-//my answer
+// 20190129
 
-class 20190129Solution {
+// my answer
+
+class Solution {
     public int lengthOfLongestSubstring(String s) {
         int len = s.length(), res = 0;
         int[] index = new int[128];

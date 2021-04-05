@@ -1,6 +1,8 @@
-//my answer
+// 20190118
 
-class 20190118Solution {
+// my answer
+
+class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         for(int i = 0; i < nums.length; i++){
@@ -19,7 +21,6 @@ class 20190118Solution {
 /*
     方法一：暴力法
     方法二：两遍哈希表
-
 */
 
 //best answer
@@ -42,10 +43,11 @@ class Solution {
         return null;
     }
 }
-
-&&
+*/
 
 //这个应该是一个模拟的哈希表
+
+/*
 class Solution {
     int size = 2048;
     int[] map = new int[size];

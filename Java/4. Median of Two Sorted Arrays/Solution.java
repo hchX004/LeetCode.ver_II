@@ -1,7 +1,8 @@
-//my answer
+// 20200111
 
+// my answer
 
-class 20200111Solution {
+class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] nums;
     	int m = nums1.length, n = nums2.length;
@@ -57,8 +58,11 @@ public double findMedianSortedArrays(int[] nums1, int[] nums2) {
     else
         return right;
 }
+*/
 
 //二分查找
+
+/*
 //时间复杂度O(log(min(m,n))
 //空间复杂度O(1)
 public double findMedianSortedArrays(int[] A, int[] B) {

@@ -1,4 +1,6 @@
-//my answer 100%
+// 20190127
+
+// my answer 100%
 
 /**
  * Definition for singly-linked list.
@@ -8,7 +10,8 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-class 20190127Solution {
+
+class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(0);
         ListNode p = l1, q = l2, n = result;

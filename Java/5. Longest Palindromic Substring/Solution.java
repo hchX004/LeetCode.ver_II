@@ -1,6 +1,8 @@
-//my answer 567ms
+// 20190212
 
-class 20190212Solution {
+// my answer 567ms
+
+class Solution {
 	public String longestPalindrome(String s) {
         char[] ss = s.toCharArray();
         int len = s.length(), max = 0;
@@ -12,7 +14,7 @@ class 20190212Solution {
         }
         return "";
     }
-    
+
     public boolean isPalStr(String s){
         //char[] ss = s.toCharArray();
         //int len = s.length();
@@ -31,6 +33,7 @@ class 20190212Solution {
 }
 
 //best answer
+
 /*
 class Solution {
     public String longestPalindrome(String s) {
@@ -57,9 +60,9 @@ class Solution {
         return R - L - 1;
     }
 }
+*/
 
-//
-
+/*
 class Solution {
     public String longestPalindrome(String s) {
         int len = s.length();

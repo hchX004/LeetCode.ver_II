@@ -1,6 +1,8 @@
-//my answer
+// 20190213
 
-class 20190213Solution {
+// my answer
+
+class Solution {
     public String convert(String s, int numRows) {
         int len = s.length();
         if(numRows == 1) return s;
@@ -20,7 +22,9 @@ class 20190213Solution {
     }
 }
 
-//best answer //StringBuilder超快的
+//best answer
+//StringBuilder超快的
+
 /*
 class Solution {
     public static String convert(String s, int numRows) {
