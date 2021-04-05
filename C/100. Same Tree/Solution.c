@@ -1,4 +1,6 @@
-//my answer
+// 20190131
+
+// my answer
 
 /**
  * Definition for a binary tree node.
@@ -8,6 +10,7 @@
  *     struct TreeNode *right;
  * };
  */
+
 bool isSameTree(struct TreeNode* p, struct TreeNode* q) {
     if(p == NULL && q == NULL) return 1;
     else if(p == NULL || q == NULL) return 0;

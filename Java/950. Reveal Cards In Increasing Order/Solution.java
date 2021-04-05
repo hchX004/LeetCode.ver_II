@@ -1,7 +1,8 @@
+// 20200302
 
+// my answer
 
-
-class 20200302Solution {
+class Solution {
     public int[] deckRevealedIncreasing(int[] deck) {
         int[] ans = new int[deck.length];
         int flag = 1;

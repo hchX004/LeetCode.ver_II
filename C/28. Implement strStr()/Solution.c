@@ -1,3 +1,5 @@
+// 20190129
+
 //my answer 100%
 
 void getNext(char* needle, int* next, int len);
@@ -23,7 +25,7 @@ int strStr(char* haystack, char* needle) {
             else{
                 j = next[j];
             }
-        }     
+        }
     }
     return -1;
 }

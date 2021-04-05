@@ -1,4 +1,6 @@
-//my answer
+// 20190206
+
+// my answer
 
 /**
  * Definition for a binary tree node.
@@ -9,7 +11,8 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-class 20190206Solution {
+
+class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null) return true;
         else if(p == null || q == null) return false;

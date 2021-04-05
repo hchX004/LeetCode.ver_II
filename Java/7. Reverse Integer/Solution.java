@@ -1,6 +1,8 @@
-//my answer
+// 20190117
 
-class 20190117Solution {
+// my answer
+
+class Solution {
     public int reverse(int x) {
         int lastNum, num, length;
         long returnNum;

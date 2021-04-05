@@ -1,3 +1,5 @@
+# 20200225
+
 # Write your MySQL query statement below
 
 UPDATE salary

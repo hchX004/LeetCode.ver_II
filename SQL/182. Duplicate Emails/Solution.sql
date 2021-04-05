@@ -1,4 +1,7 @@
+# 20200208
+
 # Write your MySQL query statement below
+
 select Email from (
     select Email ,count(Email) as num from Person
     group by Email
@@ -6,4 +9,5 @@ select Email from (
 where num > 1;
 
 #更快的方法
+
 # SELECT Email FROM Person GROUP BY Email HAVING count(Email) > 1
