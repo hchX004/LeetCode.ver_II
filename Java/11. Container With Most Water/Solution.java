@@ -1,6 +1,8 @@
-//my answer excellent
+// 20190218
 
-class 20190218Solution {
+// my answer excellent
+
+class Solution {
     public int maxArea(int[] height) {
         int len = height.length, result = 0, tempMax;
         for(int i = 0, j = len-1; i < len && j >= i;){

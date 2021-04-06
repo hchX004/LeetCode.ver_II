@@ -1,6 +1,8 @@
-//my answer
+// 20190118
 
-class 20190118Solution {
+// my answer
+
+class Solution {
     public boolean isPalindrome(int x) {
         int temp = x, num, result = 0;
         if(x < 0) return false;

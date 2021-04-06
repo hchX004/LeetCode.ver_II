@@ -1,8 +1,10 @@
-//my answer
-//动态规划
+// 20200114
+
+// my answer
+// 动态规划
 
 
-class 20200114Solution {
+class Solution {
     public int maxProfit(int[] prices) {
         if(prices.length <= 1) return 0;
         int min = prices[0], p = 0;

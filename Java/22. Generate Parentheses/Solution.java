@@ -1,7 +1,8 @@
-//my answer
+// 20200113
 
+// my answer
 
-class 20200113Solution {
+class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<String>();
         return generate(res, "", 0, 0, n);
@@ -64,8 +65,11 @@ public class Solution {
         return dp.get(n);
     }
 }
+*/
 
-O(4^n/n^(1/2))
+// O(4^n/n^(1/2))
+
+/*
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList();
@@ -80,4 +84,4 @@ class Solution {
         return ans;
     }
 }
- */
+*/

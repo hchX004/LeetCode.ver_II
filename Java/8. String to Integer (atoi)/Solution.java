@@ -1,6 +1,8 @@
-//my answer
+// 20190217
 
-class 20190217Solution {
+// my answer
+
+class Solution {
     public int myAtoi(String str) {
         if(str.length() == 0) return 0;
         int pos = 0;

@@ -1,6 +1,8 @@
-//my answer
+// 20190219
 
-class 20190219Solution {
+// my answer
+
+class Solution {
     public String intToRoman(int num) {
         String res = "";
         

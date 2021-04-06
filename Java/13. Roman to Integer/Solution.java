@@ -1,6 +1,8 @@
-//my answer
+// 20190118
 
-class 20190118Solution {
+// my answer
+
+class Solution {
     public int romanToInt(String s) {
         int result = 0, index = 0;
         boolean flag = false;
